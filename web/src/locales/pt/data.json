@@ -741,7 +741,15 @@
     "There is no payment channel for this product.": "Não há canal de pagamento disponível para este produto.",
     "This product is currently not in sale.": "Este produto não está disponível para venda no momento.",
     "USD": "USD",
-    "WeChat Pay": "WeChat Pay"
+    "WeChat Pay": "WeChat Pay",
+    "EUR": "EUR",
+    "JPY": "JPY",
+    "GBP": "GBP",
+    "AUD": "AUD",
+    "CAD": "CAD",
+    "CHF": "CHF",
+    "HKD": "HKD",
+    "SGD": "SGD"
   },
   "provider": {
     "Access key": "Chave de acesso",
